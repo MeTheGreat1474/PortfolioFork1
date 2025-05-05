@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/PortfolioFork1/static/css/main.4282cde7.css",
+    "main.js": "/PortfolioFork1/static/js/main.894d55ec.js",
+    "static/js/415.4d6acbeb.chunk.js": "/PortfolioFork1/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PortfolioFork1/static/js/787.1ed0c42c.chunk.js",
+    "static/media/DarkReign.png": "/PortfolioFork1/static/media/DarkReign.223171c512adc71b860a.png",
+    "static/media/opengl.png": "/PortfolioFork1/static/media/opengl.0c7280fa46644ad78948.png",
+    "static/media/hotmeal.jpg": "/PortfolioFork1/static/media/hotmeal.ecda54821aab099cf56c.jpg",
+    "static/media/home-main2.png": "/PortfolioFork1/static/media/home-main2.eb2b9ca5790e58d6424a.png",
+    "static/media/about.png": "/PortfolioFork1/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/AhmadTaufiqResume.pdf": "/PortfolioFork1/static/media/AhmadTaufiqResume.75d0e1b37b920a6c6586.pdf",
+    "static/media/galahpanjang.png": "/PortfolioFork1/static/media/galahpanjang.c0146b900bf01cc51baa.png",
+    "static/media/egringotts.png": "/PortfolioFork1/static/media/egringotts.d959ef5bc87d4c7512fe.png",
+    "static/media/darkboundrpg.png": "/PortfolioFork1/static/media/darkboundrpg.51893135f946ef614a74.png",
+    "static/media/dermanation.png": "/PortfolioFork1/static/media/dermanation.9a46656c8c4f2bdaef25.png",
+    "static/media/avatar.svg": "/PortfolioFork1/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/logo4.png": "/PortfolioFork1/static/media/logo4.f7bd873957831aed223b.png",
+    "static/media/layered-waves-haikei2.svg": "/PortfolioFork1/static/media/layered-waves-haikei2.cde74a56e4523276ba50.svg",
+    "static/media/pre.svg": "/PortfolioFork1/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/PortfolioFork1/index.html",
+    "main.4282cde7.css.map": "/PortfolioFork1/static/css/main.4282cde7.css.map",
+    "main.894d55ec.js.map": "/PortfolioFork1/static/js/main.894d55ec.js.map",
+    "415.4d6acbeb.chunk.js.map": "/PortfolioFork1/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PortfolioFork1/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4282cde7.css",
+    "static/js/main.894d55ec.js"
+  ]
+}
