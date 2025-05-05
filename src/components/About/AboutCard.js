@@ -30,7 +30,7 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
+          <p style={{ color: "rgb(86 126 173)" }}>
             "Success is not Final, Failure is not Fatal"{" "}
           </p>
           <footer className="blockquote-footer">Winston Churchill</footer>
