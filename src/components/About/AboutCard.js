@@ -9,9 +9,9 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Ahmad Taufiq </span>
-            from <span className="purple"> Beranang, Selangor</span>
+            from  Beranang, Selangor.
             <br />
-            I am currently looking for an internship as UI/UX and Website Designer.
+            I am currently looking for an internship as <span className="purple"> UI/UX and Website Designer</span>.
             <br />
             I am currently undergoing Bachelor's Degree in Computer Science (Multimedia Computing).
             <br />
